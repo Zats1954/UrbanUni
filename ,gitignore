@@ -5,7 +5,7 @@
 /lib/*
 # Compiled class file
 *.class
-
+d.iml
 # Log file
 *.log
 *.jar
